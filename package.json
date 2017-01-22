@@ -1,0 +1,23 @@
+{
+  "name": "stripe-client-ts",
+  "version": "1.0.0",
+  "description": "Import and ts definitions for Stripe.js",
+  "main": "dist/stripe-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronzeidman/stripe-client-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronzeidman/stripe-client-ts/issues"
+  },
+  "homepage": "https://github.com/ronzeidman/stripe-client-ts#readme",
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
+}
